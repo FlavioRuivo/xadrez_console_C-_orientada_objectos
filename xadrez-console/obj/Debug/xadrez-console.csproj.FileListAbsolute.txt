@@ -1,0 +1,7 @@
+E:\Pessoal\Linkedin-Learning\UDEMY\C# COMPLETO Programação Orientada a Objectos\Secção 12 - Projecto jogo de xadrez\console-xadrez_original-Git\xadrez-console\xadrez-console\bin\Debug\xadrez-console.exe.config
+E:\Pessoal\Linkedin-Learning\UDEMY\C# COMPLETO Programação Orientada a Objectos\Secção 12 - Projecto jogo de xadrez\console-xadrez_original-Git\xadrez-console\xadrez-console\bin\Debug\xadrez-console.exe
+E:\Pessoal\Linkedin-Learning\UDEMY\C# COMPLETO Programação Orientada a Objectos\Secção 12 - Projecto jogo de xadrez\console-xadrez_original-Git\xadrez-console\xadrez-console\bin\Debug\xadrez-console.pdb
+E:\Pessoal\Linkedin-Learning\UDEMY\C# COMPLETO Programação Orientada a Objectos\Secção 12 - Projecto jogo de xadrez\console-xadrez_original-Git\xadrez-console\xadrez-console\obj\Debug\xadrez-console.csproj.AssemblyReference.cache
+E:\Pessoal\Linkedin-Learning\UDEMY\C# COMPLETO Programação Orientada a Objectos\Secção 12 - Projecto jogo de xadrez\console-xadrez_original-Git\xadrez-console\xadrez-console\obj\Debug\xadrez-console.csproj.CoreCompileInputs.cache
+E:\Pessoal\Linkedin-Learning\UDEMY\C# COMPLETO Programação Orientada a Objectos\Secção 12 - Projecto jogo de xadrez\console-xadrez_original-Git\xadrez-console\xadrez-console\obj\Debug\xadrez-console.exe
+E:\Pessoal\Linkedin-Learning\UDEMY\C# COMPLETO Programação Orientada a Objectos\Secção 12 - Projecto jogo de xadrez\console-xadrez_original-Git\xadrez-console\xadrez-console\obj\Debug\xadrez-console.pdb
